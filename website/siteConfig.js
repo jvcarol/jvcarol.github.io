@@ -23,9 +23,9 @@ const users = [
 const siteConfig = {
   title: 'Docs iClubs.io', // Title for your website.
   tagline: 'A website for document iclubs.io',
-  url: 'https://jvcarol.github.io/', // Your website URL
-  baseUrl: '/iclubsio-doc/', // Base URL for your project */
-  projectName: 'iclubsio-doc',
+  url: 'https://jvcarol.github.io', // Your website URL
+  baseUrl: '/', // Base URL for your project */
+  projectName: 'jvcarol.github.io',
   organizationName: 'jvcarol',
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
