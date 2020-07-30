@@ -23,7 +23,7 @@ const users = [
 const siteConfig = {
   title: 'Docs iClubs.io', // Title for your website.
   tagline: 'A website for document iclubs.io',
-  url: 'https://jvcarol.github.io/', // Your website URL
+  url: 'https://jvcarol.github.io', // Your website URL
   baseUrl: '/iclubsio-doc/', // Base URL for your project */
   projectName: 'iclubsio-doc',
   organizationName: 'jvcarol',
