@@ -30,7 +30,8 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'intro', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
+    {href: "http://docs.iclubs.io/", label: 'APIs'},
+    {href: "https://www.iclubs.io/", label: 'iClubs IO'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
@@ -64,7 +65,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Powered by JVMedeiros and Carol Zaglia`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
