@@ -1,8 +1,8 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "iClubs IO": ["intro","sess1", "sess2", "sess3", "sess4" ],
+    "iClubs APP": [""],
+    "Zappts": [""]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
