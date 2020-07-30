@@ -29,7 +29,7 @@ const siteConfig = {
   organizationName: 'jvcarol',
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
+    {doc: 'intro', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
@@ -39,14 +39,14 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
-  footerIcon: 'img/favicon.ico',
-  favicon: 'img/favicon.ico',
+  headerIcon: 'img/just-logo.svg',
+  footerIcon: 'img/just-logo.svg',
+  favicon: 'img/just-logo.svg',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#61374b',
-    secondaryColor: '#432634',
+    primaryColor: '#000',
+    secondaryColor: '#FF0371',
   },
 
   /* Custom fonts for website */
