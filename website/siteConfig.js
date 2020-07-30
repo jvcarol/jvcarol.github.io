@@ -25,7 +25,7 @@ const siteConfig = {
   tagline: 'A website for document iclubs.io',
   url: 'https://jvcarol.github.io', // Your website URL
   baseUrl: '/iclubsio-doc/', // Base URL for your project */
-  projectName: 'iclubsio-doc',
+  projectName: 'jvcarol.github.io',
   organizationName: 'jvcarol',
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
