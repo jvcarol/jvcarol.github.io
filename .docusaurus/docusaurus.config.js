@@ -1,34 +1,40 @@
 export default {
-  "title": "My Site",
-  "tagline": "The tagline of my site",
+  "title": "iClubs IO Docs",
+  "tagline": "",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
-  "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "favicon": "img/just-logo.svg",
+  "organizationName": "Zappts",
+  "projectName": "Zappts Front End Docs",
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "iClubs IO Docs",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/logo-red.svg"
       },
       "items": [
         {
           "to": "docs/",
           "activeBasePath": "docs",
           "label": "Docs",
-          "position": "left"
+          "position": "right"
+        },
+        {
+          "to": "http://docs.iclubs.io/",
+          "activeBasePath": "docs",
+          "label": "APIs",
+          "position": "right"
         },
         {
           "to": "blog",
           "label": "Blog",
-          "position": "left"
+          "position": "right"
         },
         {
           "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
+          "label": "Ajuda",
           "position": "right"
         }
       ],
@@ -41,12 +47,8 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Style Guide",
-              "to": "docs/"
-            },
-            {
-              "label": "Second Doc",
-              "to": "docs/doc2/"
+              "label": "APIs",
+              "to": "http://docs.iclubs.io/"
             }
           ]
         },
@@ -54,16 +56,8 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "Linkedin",
+              "href": "https://www.linkedin.com/company/zappts/"
             }
           ]
         },
@@ -71,21 +65,21 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "blog"
+              "label": "iClubs IO",
+              "to": "https://iclubs.io/"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "Zappts",
+              "href": "https://zappts.com.br"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2020 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2020 Powered by Zappts."
     },
     "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
+      "defaultMode": "dark",
+      "disableSwitch": true,
       "respectPrefersColorScheme": false
     }
   },
@@ -94,8 +88,8 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "homePageId": "doc1",
-          "sidebarPath": "/Users/carolzaglia/devel/jvcarol.github.io/sidebars.js",
+          "homePageId": "intro",
+          "sidebarPath": "/home/jvmedeiros/Documentos/Trabalho/Zappts/jvcarol.github.io/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
         },
         "blog": {
@@ -103,7 +97,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
         },
         "theme": {
-          "customCss": "/Users/carolzaglia/devel/jvcarol.github.io/src/css/custom.css"
+          "customCss": "/home/jvmedeiros/Documentos/Trabalho/Zappts/jvcarol.github.io/src/css/custom.css"
         }
       }
     ]
