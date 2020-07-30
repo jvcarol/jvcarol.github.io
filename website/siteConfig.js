@@ -35,6 +35,12 @@ const siteConfig = {
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
+  //Search box
+  algolia: {
+    apiKey: '',
+    indexName: '',
+    algolia: {}
+  },
 
   // If you have users set above, you add it here:
   users,
@@ -65,7 +71,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Powered by JVMedeiros and Carol Zaglia`,
+  copyright: `Copyright © ${new Date().getFullYear()} Powered by Zappts`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.

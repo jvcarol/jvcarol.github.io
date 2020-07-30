@@ -21,5 +21,5 @@ Ela foi dividida em 4 tópicos onde será abordado:
 [Boas Práticas em JavaScript](https://medium.com/@washingtonbr/padr%C3%B5es-de-projeto-e-boas-pr%C3%A1ticas-em-javascript-d3b49c5c61a5)
 
 **Creditos** </br>
-[Carol Zaglia](https://github.com/carolgsantos)</br>
+[Carol Zaglia](https://github.com/carolgsantos)</br> 
 [João Medeiros](https://github.com/JVMedeiros)
