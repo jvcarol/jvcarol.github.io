@@ -1,0 +1,19 @@
+{
+  "unversionedId": "sess4",
+  "id": "sess4",
+  "isDocsHomePage": false,
+  "title": "Componentes",
+  "description": "See more at facebook,com",
+  "source": "@site/docs/sess4.md",
+  "permalink": "/docs/sess4",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/sess4.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Bibliotecas Utilizadas",
+    "permalink": "/docs/sess3"
+  },
+  "next": {
+    "title": "Guia de APIs",
+    "permalink": "/docs/mdx"
+  }
+}

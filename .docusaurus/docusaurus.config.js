@@ -78,8 +78,8 @@ export default {
       "copyright": "Copyright © 2020 Powered by Zappts."
     },
     "colorMode": {
-      "defaultMode": "dark",
-      "disableSwitch": true,
+      "defaultMode": "light",
+      "disableSwitch": false,
       "respectPrefersColorScheme": false
     }
   },

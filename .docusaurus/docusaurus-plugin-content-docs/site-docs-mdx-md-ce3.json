@@ -2,14 +2,14 @@
   "unversionedId": "mdx",
   "id": "mdx",
   "isDocsHomePage": false,
-  "title": "Powered by MDX",
-  "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+  "title": "Guia de APIs",
+  "description": "Congratulations on your new Loyalty Platform. This manual is intended to help you get the most out of your Loyalty program in your day-to-day use.",
   "source": "@site/docs/mdx.md",
   "permalink": "/docs/mdx",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mdx.md",
   "sidebar": "someSidebar",
   "previous": {
-    "title": "This is Document Number 3",
-    "permalink": "/docs/doc3"
+    "title": "Componentes",
+    "permalink": "/docs/sess4"
   }
 }

@@ -1,17 +1,10 @@
 ---
 id: mdx
-title: Powered by MDX
+title: Guia de APIs
 ---
 
-You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).
+Congratulations on your new Loyalty Platform. This manual is intended to help you get the most out of your Loyalty program in your day-to-day use.
 
-export const Highlight = ({children, color}) => ( <span style={{
-      backgroundColor: color,
-      borderRadius: '2px',
-      color: '#fff',
-      padding: '0.2rem',
-    }}>{children}</span> );
+Open Loyalty for Open Banking. We created the first Loyalty as a Service (LaaS) platform in Brazil focused on serving banks and Fintechs in the API First concept.
 
-<Highlight color="#25c2a0">Docusaurus green</Highlight> and <Highlight color="#1877F2">Facebook blue</Highlight> are my favorite colors.
-
-I can write **Markdown** alongside my _JSX_!
+This guide answers the “why, where, and how” questions that most users have when learning to use Open Loyalty platform. You’ll find lots of step-by-step instructions, screenshots, and examples.

@@ -59,7 +59,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','53c'),
+  component: ComponentCreator('/docs','581'),
   
   routes: [
 {
@@ -68,23 +68,28 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/doc1',
-  component: ComponentCreator('/docs/doc1','392'),
-  exact: true,
-},
-{
-  path: '/docs/doc2',
-  component: ComponentCreator('/docs/doc2','fd3'),
-  exact: true,
-},
-{
-  path: '/docs/doc3',
-  component: ComponentCreator('/docs/doc3','e02'),
-  exact: true,
-},
-{
   path: '/docs/mdx',
   component: ComponentCreator('/docs/mdx','955'),
+  exact: true,
+},
+{
+  path: '/docs/sess1',
+  component: ComponentCreator('/docs/sess1','8aa'),
+  exact: true,
+},
+{
+  path: '/docs/sess2',
+  component: ComponentCreator('/docs/sess2','834'),
+  exact: true,
+},
+{
+  path: '/docs/sess3',
+  component: ComponentCreator('/docs/sess3','79c'),
+  exact: true,
+},
+{
+  path: '/docs/sess4',
+  component: ComponentCreator('/docs/sess4','22e'),
   exact: true,
 },
 ]

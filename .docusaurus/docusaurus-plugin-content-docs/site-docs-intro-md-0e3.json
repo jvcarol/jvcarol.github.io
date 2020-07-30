@@ -7,5 +7,10 @@
   "source": "@site/docs/intro.md",
   "permalink": "/docs/",
   "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/intro.md",
-  "sidebar_label": "Introdução"
+  "sidebar_label": "Introdução",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Ambientação",
+    "permalink": "/docs/sess1"
+  }
 }

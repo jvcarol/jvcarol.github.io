@@ -10,24 +10,28 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "doc1",
-              "path": "/docs/doc1"
-            },
-            {
-              "id": "doc2",
-              "path": "/docs/doc2"
-            },
-            {
-              "id": "doc3",
-              "path": "/docs/doc3"
-            },
-            {
               "id": "intro",
               "path": "/docs/"
             },
             {
               "id": "mdx",
               "path": "/docs/mdx"
+            },
+            {
+              "id": "sess1",
+              "path": "/docs/sess1"
+            },
+            {
+              "id": "sess2",
+              "path": "/docs/sess2"
+            },
+            {
+              "id": "sess3",
+              "path": "/docs/sess3"
+            },
+            {
+              "id": "sess4",
+              "path": "/docs/sess4"
             }
           ]
         }

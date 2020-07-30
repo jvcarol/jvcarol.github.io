@@ -1,0 +1,19 @@
+{
+  "unversionedId": "sess2",
+  "id": "sess2",
+  "isDocsHomePage": false,
+  "title": "Hierarquia de pastas",
+  "description": "O projeto segue a organização da hierarquia de pastas padrão de um projeto web, ou seja, os arquivos editáveis estão na pasta src, na raiz do projeto, e a partir dela a orientação para o código.",
+  "source": "@site/docs/sess2.md",
+  "permalink": "/docs/sess2",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/sess2.md",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Ambientação",
+    "permalink": "/docs/sess1"
+  },
+  "next": {
+    "title": "Bibliotecas Utilizadas",
+    "permalink": "/docs/sess3"
+  }
+}
