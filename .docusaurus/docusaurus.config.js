@@ -78,9 +78,9 @@ export default {
       "copyright": "Copyright © 2020 Powered by Zappts."
     },
     "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
+      "defaultMode": "dark",
+      "disableSwitch": true,
+      "respectPrefersColorScheme": true
     }
   },
   "presets": [
