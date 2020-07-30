@@ -7,11 +7,11 @@
         {
           "name": null,
           "path": "/docs",
-          "mainDocId": "doc1",
+          "mainDocId": "intro",
           "docs": [
             {
               "id": "doc1",
-              "path": "/docs/"
+              "path": "/docs/doc1"
             },
             {
               "id": "doc2",
@@ -20,6 +20,10 @@
             {
               "id": "doc3",
               "path": "/docs/doc3"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/"
             },
             {
               "id": "mdx",

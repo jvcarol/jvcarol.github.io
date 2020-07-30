@@ -9,7 +9,7 @@
           {
             "type": "link",
             "label": "Style Guide",
-            "href": "/docs/"
+            "href": "/docs/doc1"
           },
           {
             "type": "link",
@@ -38,7 +38,7 @@
     ]
   },
   "permalinkToSidebar": {
-    "/docs/": "someSidebar",
+    "/docs/doc1": "someSidebar",
     "/docs/doc2": "someSidebar",
     "/docs/doc3": "someSidebar",
     "/docs/mdx": "someSidebar"
