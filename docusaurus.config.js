@@ -1,6 +1,6 @@
 module.exports = {
   title: 'iClubs IO Docs',
-  tagline: '',
+  tagline: 'Documentação dos portais front.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -8,6 +8,10 @@ module.exports = {
   organizationName: 'Zappts', // Usually your GitHub org/user name.
   projectName: 'Zappts Front End Docs', // Usually your repo name.
   themeConfig: {
+    colorMode:{
+      defaultMode: 'dark',
+      disableSwitch: true,
+    },
     navbar: {
       title: 'iClubs IO Docs',
       logo: {
@@ -41,6 +45,11 @@ module.exports = {
     },
     footer: {
       style: 'dark',
+      logo: {
+        alt: 'Zappts Logo',
+        src: 'img/zappts-logo.svg',
+        href: 'https://zappts.com/',
+      },
       links: [
         {
           title: 'Docs',
