@@ -10,10 +10,10 @@ Esta documentação tem como objetivo orientar sobre os primeiros passos e as pr
 
 Ela foi dividida em 4 tópicos onde será abordado: 
 
-#### 1- Pré-requisitos/ambientação da máquina para desenvolvimento;
-#### 2- A hierarquia de pastas do projeto;
-#### 3- Bibliotecas Utilizadas;
-#### 4- Componetização.
+#### 1. Pré-requisitos/ambientação da máquina para desenvolvimento;
+#### 2. A hierarquia de pastas do projeto;
+#### 3. Bibliotecas Utilizadas;
+#### 4. Componetização.
 
 **Leituras** 
 

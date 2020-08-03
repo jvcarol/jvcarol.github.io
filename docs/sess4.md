@@ -3,4 +3,12 @@ id: sess4
 title: Componentes
 ---
 
-See more at facebook,com
+## **Componentes Gerais:**
+
+- Footer
+- Header Content
+- Loader
+- Navbars
+- Sidebar
+- Toast Notify
+- Button

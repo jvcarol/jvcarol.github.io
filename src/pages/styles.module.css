@@ -10,6 +10,15 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-color: black;
+}
+
+.navbar {
+  background-color: black !important;
+}
+
+.main {
+  background-color: black !important;
 }
 
 @media screen and (max-width: 966px) {

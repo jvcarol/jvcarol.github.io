@@ -57,14 +57,15 @@ function Feature({imageUrl, title, description}) {
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
+  const imgUrlDevs = useBaseUrl('img/devs.svg');
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <h1 className="h1-primary">{siteConfig.title}</h1>
+          <p className="subh1-primary">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
               className={clsx(
@@ -72,13 +73,16 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Get Started
+              Documentação
             </Link>
           </div>
         </div>
       </header>
       <main>
-        {features && features.length > 0 && (
+        <div className="devs-img">
+          <img src={imgUrlDevs} alt={'devs'} />
+        </div>
+        {/* {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
               <div className="row">
@@ -88,7 +92,7 @@ function Home() {
               </div>
             </div>
           </section>
-        )}
+        )} */}
       </main>
     </Layout>
   );
