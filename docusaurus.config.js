@@ -1,12 +1,12 @@
 module.exports = {
   title: 'iClubs IO Docs',
   tagline: 'Documentação dos portais front.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://jvcarol.github.io', // Usually your GitHub Pages url.
   baseUrl: '/',
+  organizationName: 'jvcarol', // Usually your GitHub org/user name.
+  projectName: 'jvcarol.github.io', // Usually your repo name.
   onBrokenLinks: 'throw',
   favicon: 'img/just-logo.svg',
-  organizationName: 'Zappts', // Usually your GitHub org/user name.
-  projectName: 'Zappts Front End Docs', // Usually your repo name.
   themeConfig: {
     colorMode:{
       defaultMode: 'dark',
@@ -37,7 +37,7 @@ module.exports = {
           position: 'right'
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/orgs/jvcarol/people/JVMedeiros',
           label: 'Ajuda',
           position: 'right',
         },

@@ -49,7 +49,5 @@
 }
 
 .devs-img {
-  position: absolute;
-  right: 7rem;
-  bottom: 7rem;
+  text-align: center;
 }

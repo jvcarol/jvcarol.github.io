@@ -21,17 +21,15 @@ Neste tópico falaremos sobre as algumas bibliotecas úteis importadas no projet
 
 - [**React-Bootstrap-Sweetalert**](http://djorg83.github.io/react-bootstrap-sweetalert/): fornece um componente de alerta personalizável em formato de modal.
 
-- [**React-Notification-Alert**](): 
+- [**React-Notification-Alert**](https://github.com/creativetimofficial/react-notification-alert#readme): fornece um componente de alerta personalizável baseado no [Reactstrap](https://reactstrap.github.io/).
 
-- [**React-Scripts**](): 
+- [**React-Select**](https://react-select.com/home): fornece um componente de seleção flexível para o React com suporte para seleção múltipla, preenchimento automático, assíncrono e etc.
 
-- [**React-Select**](): 
+- [**React-Tooltip**](https://github.com/wwayne/react-tooltip#readme): fornece um componente de "tooltip" personalizável.
 
-- [**React-Tooltip**](): 
+- [**Formik**](https://formik.org/docs/overview): a biblioteca de formulários de código aberto mais popular do mundo para o React e React Native.
 
-- [**Formik**]():
-
-- [**Redux-Thunk**]():
+- [**Redux-Thunk**](https://github.com/reduxjs/redux-thunk): um "middleware" para o Redux, que estende as habilidades da "store" e permite que você escreva uma lógica assíncrona que interaja com ela.
 
 
 ## **Lista de Dependências:**
