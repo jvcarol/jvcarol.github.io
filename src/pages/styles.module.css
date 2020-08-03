@@ -17,6 +17,10 @@
     padding: 2rem;
   }
 }
+.zapptsLogo {
+  align-items: flex-start;
+  margin-bottom: 1%;
+}
 
 .buttons {
   display: flex;
