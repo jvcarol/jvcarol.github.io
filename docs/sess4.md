@@ -15,3 +15,7 @@ Neste projeto estão sendo utilizados os seguintes componentes:
 - Sidebar: Padronização do menu lateral.
 - Toast Notify: Padronização das notificações e mensagens de erro.
 - Button: Padronização dos botões;
+
+:::caution Adicionar ao doc
+Entrar em detalhes sobre cada componente e exemplos de uso.
+:::
