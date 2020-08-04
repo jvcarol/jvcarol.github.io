@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{79:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"iclubs-io","name":"iclubs.io","count":1,"permalink":"/blog/tags/iclubs-io"}')}}]);
