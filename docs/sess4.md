@@ -13,5 +13,5 @@ Neste projeto estão sendo utilizados os seguintes componentes:
 - Loader: Padronização da tela de carregamento.
 - Navbars: Padronização da barra de navegação.
 - Sidebar: Padronização do menu lateral.
-- Toast Notify: Padronização das notificações/Mensagens de erro.
+- Toast Notify: Padronização das notificações e mensagens de erro.
 - Button: Padronização dos botões;
