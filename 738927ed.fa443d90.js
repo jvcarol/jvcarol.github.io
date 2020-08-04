@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{71:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"bem-vindo","name":"bem-vindo","count":2,"permalink":"/blog/tags/bem-vindo"}')}}]);
