@@ -11,3 +11,7 @@ Este guia tem como objetivo auxiliar na localização e utilização das APIs qu
 > Este guia responde o "Por quê, Onde e Como", questões que a maioria dos usuários e desenvolvedores têm quando começam a trabalhar com a plataforma de Open Loyalty. 
 > 
 > Para fazer o controle de estado e para utilizar as variáveis de forma global das APIs nós estamos > utilizando o Redux. 
+
+:::caution Adicionar ao doc
+Criar um exemplo de código para exemplificar as chamadas de API dentro do Redux.
+:::
